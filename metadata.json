@@ -1,0 +1,6 @@
+{
+  "name": "Eletricista Pro",
+  "description": "Calculadoras técnicas avançadas NBR 5410 para eletricistas profissionais e simulados interativos para aprendizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
